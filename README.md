@@ -1,2 +1,2 @@
-# Orbit-VFMS
-Orbit a Virtual File Management System on Android.
+## Orbit-VFMS
+Orbit: A Virtual File Management System on Android.
