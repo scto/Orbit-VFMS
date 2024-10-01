@@ -1,2 +1,2 @@
 ## Orbit-VFMS
-Orbit: A Virtual File Management System on Android.
+Orbit-VFMS is an open-source 'Virtual File Management System' library for Android.
